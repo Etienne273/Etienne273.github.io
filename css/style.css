@@ -23,13 +23,13 @@ body {
 }
 
 a {
-  color: #1FB57B;
+  color: #1f65b5;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:active, a:focus {
-  color: #1FB57B;
+  color: #1f65b5;
   outline: none;
 }
 
@@ -49,17 +49,17 @@ h1, h2, h3, h4, h5, h6, figure {
 
 ::-webkit-selection {
   color: #fff;
-  background: #1FB57B;
+  background: #1f65b5;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #1FB57B;
+  background: #1f65b5;
 }
 
 ::selection {
   color: #fff;
-  background: #1FB57B;
+  background: #1f65b5;
 }
 
 .btn {
@@ -88,9 +88,9 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 .btn-primary {
-  background: #1FB57B;
+  background: #1f65b5;
   color: #fff;
-  border: 2px solid #1FB57B;
+  border: 2px solid #1f65b5;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
   background: #23cb8a !important;
@@ -98,11 +98,11 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #1FB57B;
-  border: 2px solid #1FB57B;
+  color: #1f65b5;
+  border: 2px solid #1f65b5;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #1FB57B;
+  background: #1f65b5;
   color: #fff;
 }
 
