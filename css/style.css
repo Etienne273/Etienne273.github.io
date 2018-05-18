@@ -396,7 +396,7 @@ h1, h2, h3, h4, h5, h6, figure {
   outline: none;
   text-decoration: none;
   color: white;
-  background: #1FB57B;
+  background: #1f65b5;
   -webkit-border-radius: 40px;
   -moz-border-radius: 40px;
   -ms-border-radius: 40px;
@@ -411,7 +411,7 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-top: 7px !important;
   padding-bottom: 7px !important;
   border: 2px solid #1fb57b;
-  color: #1FB57B;
+  color: #1f65b5;
   -webkit-border-radius: 30px;
   -moz-border-radius: 30px;
   -ms-border-radius: 30px;
@@ -874,7 +874,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: rgba(0, 0, 0, 0.5);
 }
 .sidebar ul li a:hover {
-  color: #1FB57B;
+  color: #1f65b5;
   text-decoration: none;
 }
 
@@ -908,7 +908,7 @@ h1, h2, h3, h4, h5, h6, figure {
   color: rgba(0, 0, 0, 0.3);
 }
 .contact-info li a {
-  color: #1FB57B;
+  color: #1f65b5;
 }
 
 #map {
@@ -1063,10 +1063,10 @@ h1, h2, h3, h4, h5, h6, figure {
   text-decoration: none !important;
 }
 #fh5co-offcanvas ul li a:hover {
-  color: #1FB57B;
+  color: #1f65b5;
 }
 #fh5co-offcanvas ul li.active a {
-  color: #1FB57B;
+  color: #1f65b5;
 }
 #fh5co-offcanvas ul li.cta {
   margin-left: 0;
